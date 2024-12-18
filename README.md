@@ -20,22 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 30 minutos por dia bastam pra organizar a sua casa
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Mostrar como apenas 30 minutos por dis são suficientes para manter a casa em ordem
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA generativa CHATGPT para roteirização
+IA generativa D-ID para sintetização de voz e geração de avatar virtual
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O conteúdo foi criado com a ajuda do "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi usado para criar um avatar virtual com voz natural, dando a ideia de estar conversando com um amigo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado é um vídeo curto para orientar a pessoa que tem pouco tempo a manter a casa minimamente organizada.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Muito dificil para quem tem zero experiência...mas a vointade de aprender e a exploração ajudaram a criar esse projeto.
 ```
 
 ### Exemplos e Insigths
