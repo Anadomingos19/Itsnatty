@@ -28,7 +28,8 @@ IA generativa D-ID para sintetização de voz e geração de avatar virtual
 O conteúdo foi criado com a ajuda do "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi usado para criar um avatar virtual com voz natural, dando a ideia de estar conversando com um amigo.
 
 ## 🚀 Resultados
-O resultado é um vídeo curto para orientar a pessoa que tem pouco tempo a manter a casa minimamente organizada.
+O resultado é um vídeo curto para orientar a pessoa que tem pouco tempo a manter a casa minimamente organizada. Link para o video aqui: https://studio.d-id.com/share?id=7bf4157162fad442bc6487b8fca7c6b4&utm_source=copy
+
 
 ## 💭 Reflexão (Opcional)
 Muito dificil para quem tem zero experiência...mas a vointade de aprender e a exploração ajudaram a criar esse projeto.
